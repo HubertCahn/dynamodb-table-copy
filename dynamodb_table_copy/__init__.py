@@ -1,0 +1,1 @@
+from .dynamodb_table_copy import copy_table
